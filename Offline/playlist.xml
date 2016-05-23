@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+    <title>Ounage Playlist</title>
+    <creator>Dew</creator>
+    <link>http://www.blup.fr/</link>
+    <info>The Best Playlist for Testing</info>
+
+    <trackList>
+
+        <track>
+          <location>music/test.mp3</location>
+          <title>rock</title>
+        </track>
+        
+        <track>
+          <location>music/Kalimba.mp3</location>
+          <title>Kalimba</title>
+        </track>
+
+        <track>
+          <location>music/Maid with the Flaxen Hair.mp3</location>
+          <title>Maid with the Flaxen Hair</title>
+        </track>
+
+        <track>
+          <location>music/Podington_Bear_-_12_-_Wavy_Glass.mp3</location>
+          <title>Wavy Glass</title>
+        </track>
+
+        <track>
+          <location>music/Sleep Away.mp3</location>
+          <title>Sleep Away</title>
+        </track>
+        
+        
+
+    </trackList>
+</playlist>

@@ -1,0 +1,48 @@
+    table {
+        background-color: #F3F3F3;
+        border-collapse: collapse;
+        width: 100%;
+        margin: 15px 0;
+    }
+
+    .colorwhite {
+        background-color: #706D7B;
+        color: #FFF;
+        cursor: pointer;
+        padding: 5px 10px;
+    }
+
+    th small {
+        font-size: 9px; 
+    }
+
+    td, th {
+        text-align: left;
+    }
+
+    td a {
+        color: #663300;
+        display: block;
+        padding: 5px 10px;
+    }
+    th a {
+        padding-left: 0
+    }
+
+
+
+    tr:nth-of-type(odd) {
+        background-color: #E6E6E6;
+    }
+
+    tr:hover td {
+        background-color:#CACACA;
+    }
+
+    tr:hover td a {
+        color: #000;
+    }
+    
+    table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sorttable_nosort):after { 
+    content: " \25B4\25BE" 
+}

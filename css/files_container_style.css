@@ -1,0 +1,15 @@
+.containerFiles{
+   // background-color: #FFF;
+  //  border-radius: 25px;
+   //border: 2px dotted blue;
+   
+}
+
+.glyphicon-remove{
+    float:right;
+    text-align: right;
+}
+
+.fileRow{
+    margin-bottom: 20px;
+}

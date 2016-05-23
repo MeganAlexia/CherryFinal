@@ -1,0 +1,111 @@
+body { 
+  margin:0; /* fond d'écran */
+  padding:0;
+  background: url(image/fond/ciel.png) no-repeat center fixed; 
+  -webkit-background-size: cover; /* pour anciens Chrome et Safari */
+  background-size: cover; /* version standardisée */
+}
+
+.imageflottante
+{
+    position: absolute;
+	bottom : 10px;
+	left : 10px;
+	max-width: 80px;
+	height: auto;
+}
+
+.imageflottante1
+{
+    position: fixed;
+	top : 20%;
+	left : 15%;
+	max-width: 15%;
+	height: auto;
+}
+
+.imageflottante2
+{
+    position: fixed;
+	top : 30%;
+	left : 80%;
+	max-width: 9%;
+	height: auto;
+}
+
+.imageflottante3
+{
+    position: fixed;
+	top : 40%;
+	left : 50%;
+	max-width: 15%;
+	height: auto;
+}
+
+.imageflottante4
+{
+    position: fixed;
+	top : 65%;
+	left : 25%;
+	max-width: 9%;
+	height: auto;
+}
+
+.imageflottante5
+{
+    position: fixed;
+	top : 70%;
+	left : 70%;
+	max-width: 9%;
+	height: auto;
+}
+
+.imagecarte
+{
+    position: relative;
+	top: 50%;
+	left:50%;
+	max-width: 100%;
+	height: auto;
+}
+
+.page-header {
+	margin: 0px 0;
+    padding-bottom: 0px;
+	height: 5rem;
+}
+.avatar
+{
+    position: absolute;
+	top : 10px;
+	left : 15px;
+	max-width: 90px;
+	height: auto;
+}
+
+.parametre
+{
+    position: absolute;
+	top : 10px;
+	right : 130px;
+	max-width: 90px;
+	height: auto;
+}
+
+.compte
+{
+    position: absolute;
+	top : 10px;
+	right : 10px;
+	max-width: 90px;
+	height: auto;
+}
+
+.image1
+{
+    position: absolute;
+	bottom : 10px;
+	left : 10px;
+	max-width: 60px;
+	height: auto;
+}
